@@ -3,7 +3,7 @@
 # Netflix GPT
  -create react app
  - configured tailwinfdcss
- -
+ 
 
  # Feautures
 -Login
