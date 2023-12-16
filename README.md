@@ -7,7 +7,7 @@
 
  # Feautures
 -Login
-    -signin sinout
+ -signin sinout
     -redirrsct to browse page
  -Browse(only comes after auth)
     -Header
